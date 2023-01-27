@@ -16,7 +16,7 @@ You can install the package via composer:
 For Laravel 9.x
 
 ```bash
-composer require pod-point/laravel-mail-export
+composer require st693ava/laravel-mail-export
 ```
 
 For Laravel 7.x and 8.x
@@ -28,7 +28,7 @@ composer require pod-point/laravel-mail-export:^1.0
 For Laravel 5.x and 6.x
 
 ```bash
-composer require pod-point/laravel-mail-export:^0.1
+composer require st693ava/laravel-mail-export:^0.1
 ```
 
 ### Publishing the config file
